@@ -436,6 +436,8 @@ This exercise strengthened my understanding of:
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/f0cd3efa-e009-417e-8d38-daab37e33c46" />
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/c6601aa0-ab78-40b3-bb65-c5958deaf797" />
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/b3b76554-7ed2-4984-bef6-9144261880f2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f64e80a-036a-40b7-aded-b05ddc0ba15b" />
+
 <img width="1241" height="1754" alt="My Locked PDF1_page-0001" src="https://github.com/user-attachments/assets/1a95d577-51ac-4e92-b02b-091c70ca537a" />
 <img width="1241" height="1754" alt="My Locked PDF2_page-0001" src="https://github.com/user-attachments/assets/35f4ae07-dde6-4cd9-805b-5eb9db324f9c" />
 <img width="1275" height="1650" alt="My Locked PDF3_page-0001" src="https://github.com/user-attachments/assets/c903ee2f-8c92-4d3f-a1a4-c83c5120421c" />
